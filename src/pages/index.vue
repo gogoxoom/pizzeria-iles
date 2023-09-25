@@ -5,6 +5,10 @@
   <main>
     <HeroSection />
     <FeatureSection />
+    <TheDivider />
+    <PizzaStore />
+    <DelivSection />
+    <SubSec />
   </main>
 </template>
 <style scoped></style>
