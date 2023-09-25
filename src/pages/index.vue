@@ -1,9 +1,10 @@
 <page>
     title: Home
 </page>
-<template>
-  <main>
-    <HeroSection />
-  </main>
+<template class="bg-slate-50">
+    <main>
+        <HeroSection/>
+        <FeatureSection/>
+    </main>
 </template>
 <style scoped></style>
