@@ -1,6 +1,6 @@
 export default {
-  title: `Vue Designer`,
-  description: 'Vue Designer îles Tailwind CSS - Quick start template',
+  title: `PIzzeria`,
+  description: 'yum yums',
   author: 'Pinegrow',
   url: 'https://pg-iles-tailwindcss.netlify.app',
   nav: [
