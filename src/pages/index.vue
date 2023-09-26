@@ -3,8 +3,8 @@
 </page>
 <template class="bg-slate-50">
   <main>
-    <HeroSection />
-    <FeatureSection />
+    <HeroSection data-pg-collapsed />
+    <FeatureSection data-pg-collapsed />
     <TheDivider />
     <PizzaStore />
     <DelivSection />

@@ -12,7 +12,7 @@ import site from './src/site'
 const { url: siteUrl } = site
 
 export default defineConfig({
-  siteUrl,
+  siteUrl: 'https://voluble-elf-db2d87.netlify.app',
   // turbo: true,
   jsx: 'preact', // 'solid', 'react', 'vue'
   svelte: true,
